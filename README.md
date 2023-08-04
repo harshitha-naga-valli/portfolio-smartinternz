@@ -23,3 +23,9 @@ The output of the project will be static web application that showcases the pers
 ![Screenshot 2023-08-04 110819](https://github.com/harshitha-naga-valli/portfolio-smartinternz/assets/86561393/cc7eb82f-9390-4023-944c-ceed897c2f6b)
 
 ![Screenshot 2023-08-04 110853](https://github.com/harshitha-naga-valli/portfolio-smartinternz/assets/86561393/54b308a2-18b3-42e6-ba21-b0c54bb419fa)
+
+
+
+
+
+
